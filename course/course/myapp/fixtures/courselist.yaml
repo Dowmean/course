@@ -1,0 +1,7 @@
+- model: myapp.course
+  pk: 123
+  fields:
+    name: "dowmean"
+  pk: 1234
+  fields:
+    name: "dowmean1"
